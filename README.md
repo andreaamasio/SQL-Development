@@ -48,7 +48,7 @@ LIMIT 10
 - The top job has roughly almost double the salary of the second result
 - These top results have salary range between 184k and 650k annually, indicating high variability in the job market.
 
-![Top Paying Jobs](assets\1.png)
+![Top Paying Jobs](assets/1.png)
 *Bar graph visualizing the top 10 Paying Jobs of the dataset; ChatGPT generated this graph based on my query result.*
 
 ### 2.What are the skills required for these top-paying roles?
